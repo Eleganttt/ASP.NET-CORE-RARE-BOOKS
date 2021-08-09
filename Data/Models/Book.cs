@@ -23,7 +23,7 @@
 
             public int GenreId { get; set; }
 
-            public Category Category { get; set; }
+            public Genre Genre { get; set; }
 
     }
 }

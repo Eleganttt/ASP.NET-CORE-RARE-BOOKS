@@ -4,7 +4,7 @@
     using System.ComponentModel.DataAnnotations;
 
     using static DataConstants;
-    public class Category
+    public class Genre
     {
         public int Id { get; init; }
 
